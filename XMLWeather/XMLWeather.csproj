@@ -103,6 +103,87 @@
   <ItemGroup>
     <None Include="Resources\Rain3.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_449824594_VbyBm7hY01pbvCi1myuoPCNTxF1anBjv-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thunderBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drawing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\border.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drawing%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drawing%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drawing%283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drawing%284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thunderstorm bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drawing%285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drawing%286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drawing%287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moonman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud rain man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\freeze man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thunder man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rain man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sun man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heavy rain man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drizzle man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tornado man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sunny day background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rainy background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloudy_rain_backgrond.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloudy_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowy_background.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
